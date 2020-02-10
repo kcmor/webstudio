@@ -1,0 +1,24 @@
+<svg id="Component_20_1" data-name="Component 20 – 1" xmlns="http://www.w3.org/2000/svg" width="117.253" height="86.469" viewBox="0 0 117.253 86.469">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #535461;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #6c63ff;
+      }
+    </style>
+  </defs>
+  <path id="Path_1005" data-name="Path 1005" class="cls-1" d="M2.078,101.215C-.089,89.822-2.54,67.668,5.877,49.958a54.2,54.2,0,0,0,4.384-34A91.169,91.169,0,0,0,5.451,0" transform="translate(21.932 25.989) rotate(-62)"/>
+  <path id="Path_1006" data-name="Path 1006" class="cls-2" d="M15.247,7.624c0,4.208-7.624,16.4-7.624,16.4S0,11.824,0,7.624a7.624,7.624,0,0,1,15.247,0Z" transform="translate(0 16.979) rotate(-62)"/>
+  <path id="Path_1007" data-name="Path 1007" class="cls-2" d="M15.308,12.054C13.021,15.584,0,21.683,0,21.683S.236,7.3,2.523,3.775a7.624,7.624,0,1,1,12.785,8.279Z" transform="translate(22.542 14.77) rotate(-62)"/>
+  <path id="Path_1008" data-name="Path 1008" class="cls-2" d="M18.076,14.563C14.317,16.454,0,15.15,0,15.15S7.464,2.861,11.214.97a7.624,7.624,0,1,1,6.861,13.6Z" transform="translate(53.921 35.21) rotate(-62)"/>
+  <path id="Path_1009" data-name="Path 1009" class="cls-2" d="M17.717,13.965C14.332,16.466,0,17.594,0,17.594S5.276,4.222,8.66,1.722a7.624,7.624,0,1,1,9.057,12.244Z" transform="translate(77.746 55.623) rotate(-62)"/>
+  <path id="Path_1010" data-name="Path 1010" class="cls-2" d="M2.575,13.328C5.624,16.256,19.644,19.3,19.644,19.3S16.206,5.339,13.187,2.411A7.624,7.624,0,1,0,2.575,13.336Z" transform="translate(21.926 35.464) rotate(-62)"/>
+  <path id="Path_1011" data-name="Path 1011" class="cls-2" d="M3.9,14.271c3.758,1.891,18.076.587,18.076.587S14.515,2.568,10.764.678A7.624,7.624,0,0,0,3.9,14.278Z" transform="translate(47.821 59.777) rotate(-62)"/>
+  <path id="Path_1012" data-name="Path 1012" class="cls-2" d="M2.8,13.526c3.385,2.5,17.717,3.629,17.717,3.629S15.24,3.783,11.855,1.282A7.624,7.624,0,0,0,2.8,13.526Z" transform="translate(78.732 78.415) rotate(-62)"/>
+</svg>

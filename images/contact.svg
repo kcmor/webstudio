@@ -74,7 +74,7 @@
       }
 
       .cls-18 {
-        font-family: SegoeUI, Segoe UI;
+        font-family: "Segoe UI", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: 400;
       }
     </style>

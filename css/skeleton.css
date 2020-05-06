@@ -186,7 +186,7 @@ input[type="button"] {
   border-radius: 999px;
   background-color: #6C63FF;
   color: #fff;
-  padding: 6px 18px 6px 18px;
+  padding: 0.61vh 0.93vw 0.61vh 0.93vw;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 500;
@@ -223,11 +223,11 @@ input[type="tel"],
 input[type="url"],
 input[type="password"],
 select {
-  height: 38px;
-  padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
+  height: 3.88;
+  padding: 0.6vw 0.vh; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: none;
-  border-bottom: 3px solid #3F3D56;
+  border-bottom: 0.188em solid #3F3D56;
   display: block;
   margin-bottom: 2vh;
   box-shadow: none;
@@ -247,10 +247,10 @@ textarea {
 textarea {
   min-height: 10vh;
   min-width: 17vw;
-  padding-top: 6px;
-  padding-bottom: 6px;
+  padding-top: 0.61vh;
+  padding-bottom: 0.61vh;
   display: block;
-  border: 3px solid #3F3D56;
+  border: 0.188em solid #3F3D56;
   width: 17vw;
   height: 10vh;
   max-width: 30vw;
@@ -420,7 +420,7 @@ hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
   border-width: 0;
-  border-top: 1px solid #E1E1E1; }
+  border-top: 0.07em solid #E1E1E1; }
 
 
 /* Clearing

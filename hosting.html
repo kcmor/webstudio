@@ -224,4 +224,27 @@
         $("#animation").addClass("play"); 
         });
    </script>
+    <script type="text/javascript">
+        (function() {
+            if (!localStorage.getItem('cookieconsent')) {
+                document.body.innerHTML += '\
+                <div class="cookies cookieconsent">\
+                <div class="row">\
+                    <div class="ck_left">\
+                        <p class="ck_text">Tento web používa súbory cookies. <a href="https://ec.europa.eu/info/cookies_sk" target="_blank" class="ck_link">Viac informácií.</a></p>\
+                    </div>\
+                    <div class="ck_right">\
+                        <a href="#" class="ck_button">Súhlasím</a>\
+                    </div>\
+                </div>\
+            </div>\
+                ';
+                document.querySelector('.cookieconsent .ck_button').onclick = function(e) {
+                    e.preventDefault();
+                    document.querySelector('.cookieconsent').style.display = 'none';
+                    localStorage.setItem('cookieconsent', true);
+                };
+            }
+        })();
+    </script>
 </body>
